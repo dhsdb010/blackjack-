@@ -1,2 +1,2 @@
-#blackjack game
+# blackjack game
 simple blackjack game to play
